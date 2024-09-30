@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tấn Đạt</h1>
+<h1 align="center">Hi 👋, I'm Nguyên Tấn Dạt</h1>
 <h3 align="center">Người con của biển</h3>
 
 <h3 align="left">Connect with me:</h3>
